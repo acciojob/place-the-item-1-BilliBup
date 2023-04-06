@@ -1,2 +1,16 @@
-
+.holder {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.left{
+	background-color:green;
+}
+.center{
+	background-color:red;
+}
+.right{
+	background-color:blue;
+}
 /* Your CSS Code here. */
